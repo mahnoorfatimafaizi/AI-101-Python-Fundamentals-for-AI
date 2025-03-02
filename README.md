@@ -1,1 +1,1 @@
-# AI-101-Online-Python-Fundamentals-for-AI
+# AI-101-Python-Fundamentals-for-AI
